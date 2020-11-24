@@ -1,0 +1,22 @@
+PODS:
+  - camera_roll_permissions (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - camera_roll_permissions (from `.symlinks/plugins/camera_roll_permissions/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  camera_roll_permissions:
+    :path: ".symlinks/plugins/camera_roll_permissions/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  camera_roll_permissions: 19ea3b179560476e6edd74c812dc0730b3d465ba
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
